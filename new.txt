@@ -2,14 +2,7 @@ hi bhai
 kya kar raha hai?
 aur bhai
 sun zara
-<<<<<<< .merge_file_SjR2Jc
 update 1 from feat1
 update from feat2
-<<<<<<< HEAD
-=======
 update from feat1.2
->>>>>>> .merge_file_NMIt2f
-=======
 update from feat1
-
->>>>>>> feat1
